@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Financial Analyst Pro",
+  "description": "A professional AI-powered stock analysis tool that evaluates Fundamental Analysis (FA), Technical Analysis (TA), and Momentum to generate a comprehensive 10-point rating.",
+  "requestFramePermissions": []
+}
